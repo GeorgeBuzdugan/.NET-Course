@@ -1,0 +1,13 @@
+C:\Users\GeorgeBuzdugan\Desktop\Projects\Laborator_1\lab1ex8\lab1ex8\bin\Debug\netcoreapp3.1\lab1ex8.exe
+C:\Users\GeorgeBuzdugan\Desktop\Projects\Laborator_1\lab1ex8\lab1ex8\bin\Debug\netcoreapp3.1\lab1ex8.deps.json
+C:\Users\GeorgeBuzdugan\Desktop\Projects\Laborator_1\lab1ex8\lab1ex8\bin\Debug\netcoreapp3.1\lab1ex8.runtimeconfig.json
+C:\Users\GeorgeBuzdugan\Desktop\Projects\Laborator_1\lab1ex8\lab1ex8\bin\Debug\netcoreapp3.1\lab1ex8.runtimeconfig.dev.json
+C:\Users\GeorgeBuzdugan\Desktop\Projects\Laborator_1\lab1ex8\lab1ex8\bin\Debug\netcoreapp3.1\lab1ex8.dll
+C:\Users\GeorgeBuzdugan\Desktop\Projects\Laborator_1\lab1ex8\lab1ex8\bin\Debug\netcoreapp3.1\lab1ex8.pdb
+C:\Users\GeorgeBuzdugan\Desktop\Projects\Laborator_1\lab1ex8\lab1ex8\obj\Debug\netcoreapp3.1\lab1ex8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GeorgeBuzdugan\Desktop\Projects\Laborator_1\lab1ex8\lab1ex8\obj\Debug\netcoreapp3.1\lab1ex8.AssemblyInfoInputs.cache
+C:\Users\GeorgeBuzdugan\Desktop\Projects\Laborator_1\lab1ex8\lab1ex8\obj\Debug\netcoreapp3.1\lab1ex8.AssemblyInfo.cs
+C:\Users\GeorgeBuzdugan\Desktop\Projects\Laborator_1\lab1ex8\lab1ex8\obj\Debug\netcoreapp3.1\lab1ex8.csproj.CoreCompileInputs.cache
+C:\Users\GeorgeBuzdugan\Desktop\Projects\Laborator_1\lab1ex8\lab1ex8\obj\Debug\netcoreapp3.1\lab1ex8.dll
+C:\Users\GeorgeBuzdugan\Desktop\Projects\Laborator_1\lab1ex8\lab1ex8\obj\Debug\netcoreapp3.1\lab1ex8.pdb
+C:\Users\GeorgeBuzdugan\Desktop\Projects\Laborator_1\lab1ex8\lab1ex8\obj\Debug\netcoreapp3.1\lab1ex8.genruntimeconfig.cache
