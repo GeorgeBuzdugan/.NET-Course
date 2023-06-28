@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GeorgeBuzdugan\\Desktop\\Projects\\Laborator_1\\lab1ex7\\lab1ex7\\lab1ex7.csproj": {}
+    "C:\\Users\\GeorgeBuzdugan\\Desktop\\.NET Course\\Laborator_1\\lab1ex7\\lab1ex7\\lab1ex7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GeorgeBuzdugan\\Desktop\\Projects\\Laborator_1\\lab1ex7\\lab1ex7\\lab1ex7.csproj": {
+    "C:\\Users\\GeorgeBuzdugan\\Desktop\\.NET Course\\Laborator_1\\lab1ex7\\lab1ex7\\lab1ex7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GeorgeBuzdugan\\Desktop\\Projects\\Laborator_1\\lab1ex7\\lab1ex7\\lab1ex7.csproj",
+        "projectUniqueName": "C:\\Users\\GeorgeBuzdugan\\Desktop\\.NET Course\\Laborator_1\\lab1ex7\\lab1ex7\\lab1ex7.csproj",
         "projectName": "lab1ex7",
-        "projectPath": "C:\\Users\\GeorgeBuzdugan\\Desktop\\Projects\\Laborator_1\\lab1ex7\\lab1ex7\\lab1ex7.csproj",
+        "projectPath": "C:\\Users\\GeorgeBuzdugan\\Desktop\\.NET Course\\Laborator_1\\lab1ex7\\lab1ex7\\lab1ex7.csproj",
         "packagesPath": "C:\\Users\\GeorgeBuzdugan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GeorgeBuzdugan\\Desktop\\Projects\\Laborator_1\\lab1ex7\\lab1ex7\\obj\\",
+        "outputPath": "C:\\Users\\GeorgeBuzdugan\\Desktop\\.NET Course\\Laborator_1\\lab1ex7\\lab1ex7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GeorgeBuzdugan\\AppData\\Roaming\\NuGet\\NuGet.Config",

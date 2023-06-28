@@ -14,9 +14,18 @@ namespace lab1ex4
         {
             Console.WriteLine("Introduceti un numar: ");
             float numar = float.Parse(Console.ReadLine());
-            if (numar > 0) Console.WriteLine("+");
-            else if (numar == 0) Console.WriteLine("0");
-            else Console.WriteLine("-");
+            if (numar > 0)
+            { 
+                Console.WriteLine("+");
+            }
+            else if (numar == 0)
+            {
+                Console.WriteLine("0");
+            }
+            else
+            {
+                Console.WriteLine("-");
+            }
         }
     }
 }

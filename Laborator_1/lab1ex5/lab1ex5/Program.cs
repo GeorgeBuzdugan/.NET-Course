@@ -12,8 +12,15 @@ namespace lab1ex5
             float firstNumber = float.Parse(Console.ReadLine());
             Console.WriteLine("Introduceti al doilea numar:");
             float secondNumber = float.Parse(Console.ReadLine());
-            if (firstNumber > secondNumber) Console.WriteLine(secondNumber + "," + firstNumber);
-            else Console.WriteLine(firstNumber + "," + secondNumber);
+            if (firstNumber > secondNumber)
+            {
+                Console.WriteLine(secondNumber + "," + firstNumber);
+            }
+            else
+            {
+                Console.WriteLine(firstNumber + "," + secondNumber);
+
+            }
         }
     }
 }

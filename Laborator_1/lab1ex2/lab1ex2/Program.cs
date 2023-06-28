@@ -8,13 +8,13 @@ namespace lab1ex2
         /* Scrieti un program care va calcula media aritmetica a trei numere citite de la
         tastatura */
         {
-            Int32 suma = 0;
+            int suma = 0;
             Console.WriteLine("Introduceti primul numar:");
-            suma = suma + Int32.Parse(Console.ReadLine());
+            suma += int.Parse(Console.ReadLine());
             Console.WriteLine("Introduceti al doilea numar");
-            suma = suma + Int32.Parse(Console.ReadLine());
+            suma += int.Parse(Console.ReadLine());
             Console.WriteLine("Introduceti al treilea numar");
-            suma = suma + Int32.Parse(Console.ReadLine());
+            suma += int.Parse(Console.ReadLine());
             Console.WriteLine("Media aritmetica este egala cu: " + suma / 3);
         }
     }

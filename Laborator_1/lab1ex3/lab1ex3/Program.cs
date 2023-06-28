@@ -9,7 +9,7 @@ namespace lab1ex3
         tastaura */
         {
             Console.WriteLine("Introduceti un numar: ");
-            Console.WriteLine("Ultima cifra a numarului intreg introdus este: " + Int32.Parse(Console.ReadLine()) % 10);
+            Console.WriteLine("Ultima cifra a numarului intreg introdus este: " + int.Parse(Console.ReadLine()) % 10);
         }
     }
 }

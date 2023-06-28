@@ -12,3 +12,17 @@ C:\Users\GeorgeBuzdugan\Desktop\Projects\Laborator_1\lab1ex1\lab1ex1\obj\Debug\n
 C:\Users\GeorgeBuzdugan\Desktop\Projects\Laborator_1\lab1ex1\lab1ex1\obj\Debug\netcoreapp3.1\lab1ex1.dll
 C:\Users\GeorgeBuzdugan\Desktop\Projects\Laborator_1\lab1ex1\lab1ex1\obj\Debug\netcoreapp3.1\lab1ex1.pdb
 C:\Users\GeorgeBuzdugan\Desktop\Projects\Laborator_1\lab1ex1\lab1ex1\obj\Debug\netcoreapp3.1\lab1ex1.genruntimeconfig.cache
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_1\lab1ex1\lab1ex1\bin\Debug\netcoreapp3.1\lab1ex1.exe
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_1\lab1ex1\lab1ex1\bin\Debug\netcoreapp3.1\lab1ex1.deps.json
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_1\lab1ex1\lab1ex1\bin\Debug\netcoreapp3.1\lab1ex1.runtimeconfig.json
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_1\lab1ex1\lab1ex1\bin\Debug\netcoreapp3.1\lab1ex1.runtimeconfig.dev.json
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_1\lab1ex1\lab1ex1\bin\Debug\netcoreapp3.1\lab1ex1.dll
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_1\lab1ex1\lab1ex1\bin\Debug\netcoreapp3.1\lab1ex1.pdb
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_1\lab1ex1\lab1ex1\obj\Debug\netcoreapp3.1\lab1ex1.csproj.AssemblyReference.cache
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_1\lab1ex1\lab1ex1\obj\Debug\netcoreapp3.1\lab1ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_1\lab1ex1\lab1ex1\obj\Debug\netcoreapp3.1\lab1ex1.AssemblyInfoInputs.cache
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_1\lab1ex1\lab1ex1\obj\Debug\netcoreapp3.1\lab1ex1.AssemblyInfo.cs
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_1\lab1ex1\lab1ex1\obj\Debug\netcoreapp3.1\lab1ex1.csproj.CoreCompileInputs.cache
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_1\lab1ex1\lab1ex1\obj\Debug\netcoreapp3.1\lab1ex1.dll
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_1\lab1ex1\lab1ex1\obj\Debug\netcoreapp3.1\lab1ex1.pdb
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_1\lab1ex1\lab1ex1\obj\Debug\netcoreapp3.1\lab1ex1.genruntimeconfig.cache

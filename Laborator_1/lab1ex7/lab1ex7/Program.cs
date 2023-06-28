@@ -11,8 +11,14 @@ namespace lab1ex7
         {
             Console.WriteLine("Introduceti un numar: ");
             float number = float.Parse(Console.ReadLine());
-            if (number % 2 == 0) Console.WriteLine("Par");
-            else Console.WriteLine("Impar");
+            if (number % 2 == 0)
+            {
+                Console.WriteLine("Par");
+            }
+            else
+            {
+                Console.WriteLine("Impar");
+            }
         }
     }
 }

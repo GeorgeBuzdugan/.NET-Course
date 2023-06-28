@@ -7,11 +7,11 @@ namespace lab1ex8
         static void Main(string[] args)
         /* Scrieti un program care interschimba valoarea a doua variabile intregi. */
         {
-            Int32 swap;
+            int swap;
             Console.WriteLine("Introduceti prima valoare: ");
-            Int32 firstNumber = Int32.Parse(Console.ReadLine());
+            int firstNumber = int.Parse(Console.ReadLine());
             Console.WriteLine("Introduceti a doua valoare: ");
-            Int32 secondNumber = Int32.Parse(Console.ReadLine());
+            int secondNumber = int.Parse(Console.ReadLine());
             swap = firstNumber;
             firstNumber = secondNumber;
             secondNumber = swap;
