@@ -1,0 +1,14 @@
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_3\Laborator_3\lab3ex6\bin\Debug\netcoreapp3.1\lab3ex6.exe
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_3\Laborator_3\lab3ex6\bin\Debug\netcoreapp3.1\lab3ex6.deps.json
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_3\Laborator_3\lab3ex6\bin\Debug\netcoreapp3.1\lab3ex6.runtimeconfig.json
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_3\Laborator_3\lab3ex6\bin\Debug\netcoreapp3.1\lab3ex6.runtimeconfig.dev.json
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_3\Laborator_3\lab3ex6\bin\Debug\netcoreapp3.1\lab3ex6.dll
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_3\Laborator_3\lab3ex6\bin\Debug\netcoreapp3.1\lab3ex6.pdb
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_3\Laborator_3\lab3ex6\obj\Debug\netcoreapp3.1\lab3ex6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_3\Laborator_3\lab3ex6\obj\Debug\netcoreapp3.1\lab3ex6.AssemblyInfoInputs.cache
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_3\Laborator_3\lab3ex6\obj\Debug\netcoreapp3.1\lab3ex6.AssemblyInfo.cs
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_3\Laborator_3\lab3ex6\obj\Debug\netcoreapp3.1\lab3ex6.csproj.CoreCompileInputs.cache
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_3\Laborator_3\lab3ex6\obj\Debug\netcoreapp3.1\lab3ex6.dll
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_3\Laborator_3\lab3ex6\obj\Debug\netcoreapp3.1\lab3ex6.pdb
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_3\Laborator_3\lab3ex6\obj\Debug\netcoreapp3.1\lab3ex6.genruntimeconfig.cache
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_3\Laborator_3\lab3ex6\obj\Debug\netcoreapp3.1\lab3ex6.csproj.AssemblyReference.cache
