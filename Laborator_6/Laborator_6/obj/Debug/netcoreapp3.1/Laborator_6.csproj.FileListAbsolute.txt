@@ -1,0 +1,14 @@
+C:\Users\GeorgeBuzdugan\source\repos\Laborator_6\Laborator_6\obj\Debug\netcoreapp3.1\Laborator_6.csproj.AssemblyReference.cache
+C:\Users\GeorgeBuzdugan\source\repos\Laborator_6\Laborator_6\obj\Debug\netcoreapp3.1\Laborator_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GeorgeBuzdugan\source\repos\Laborator_6\Laborator_6\obj\Debug\netcoreapp3.1\Laborator_6.AssemblyInfoInputs.cache
+C:\Users\GeorgeBuzdugan\source\repos\Laborator_6\Laborator_6\obj\Debug\netcoreapp3.1\Laborator_6.AssemblyInfo.cs
+C:\Users\GeorgeBuzdugan\source\repos\Laborator_6\Laborator_6\obj\Debug\netcoreapp3.1\Laborator_6.csproj.CoreCompileInputs.cache
+C:\Users\GeorgeBuzdugan\source\repos\Laborator_6\Laborator_6\bin\Debug\netcoreapp3.1\Laborator_6.exe
+C:\Users\GeorgeBuzdugan\source\repos\Laborator_6\Laborator_6\bin\Debug\netcoreapp3.1\Laborator_6.deps.json
+C:\Users\GeorgeBuzdugan\source\repos\Laborator_6\Laborator_6\bin\Debug\netcoreapp3.1\Laborator_6.runtimeconfig.json
+C:\Users\GeorgeBuzdugan\source\repos\Laborator_6\Laborator_6\bin\Debug\netcoreapp3.1\Laborator_6.runtimeconfig.dev.json
+C:\Users\GeorgeBuzdugan\source\repos\Laborator_6\Laborator_6\bin\Debug\netcoreapp3.1\Laborator_6.dll
+C:\Users\GeorgeBuzdugan\source\repos\Laborator_6\Laborator_6\bin\Debug\netcoreapp3.1\Laborator_6.pdb
+C:\Users\GeorgeBuzdugan\source\repos\Laborator_6\Laborator_6\obj\Debug\netcoreapp3.1\Laborator_6.dll
+C:\Users\GeorgeBuzdugan\source\repos\Laborator_6\Laborator_6\obj\Debug\netcoreapp3.1\Laborator_6.pdb
+C:\Users\GeorgeBuzdugan\source\repos\Laborator_6\Laborator_6\obj\Debug\netcoreapp3.1\Laborator_6.genruntimeconfig.cache
