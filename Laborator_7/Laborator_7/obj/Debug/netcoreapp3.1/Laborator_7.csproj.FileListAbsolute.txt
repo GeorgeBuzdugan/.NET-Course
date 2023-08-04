@@ -1,0 +1,14 @@
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_7\Laborator_7\obj\Debug\netcoreapp3.1\Laborator_7.csproj.AssemblyReference.cache
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_7\Laborator_7\obj\Debug\netcoreapp3.1\Laborator_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_7\Laborator_7\obj\Debug\netcoreapp3.1\Laborator_7.AssemblyInfoInputs.cache
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_7\Laborator_7\obj\Debug\netcoreapp3.1\Laborator_7.AssemblyInfo.cs
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_7\Laborator_7\obj\Debug\netcoreapp3.1\Laborator_7.csproj.CoreCompileInputs.cache
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_7\Laborator_7\bin\Debug\netcoreapp3.1\Laborator_7.exe
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_7\Laborator_7\bin\Debug\netcoreapp3.1\Laborator_7.deps.json
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_7\Laborator_7\bin\Debug\netcoreapp3.1\Laborator_7.runtimeconfig.json
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_7\Laborator_7\bin\Debug\netcoreapp3.1\Laborator_7.runtimeconfig.dev.json
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_7\Laborator_7\bin\Debug\netcoreapp3.1\Laborator_7.dll
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_7\Laborator_7\bin\Debug\netcoreapp3.1\Laborator_7.pdb
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_7\Laborator_7\obj\Debug\netcoreapp3.1\Laborator_7.dll
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_7\Laborator_7\obj\Debug\netcoreapp3.1\Laborator_7.pdb
+C:\Users\GeorgeBuzdugan\Desktop\.NET Course\Laborator_7\Laborator_7\obj\Debug\netcoreapp3.1\Laborator_7.genruntimeconfig.cache
